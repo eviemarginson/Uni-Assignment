@@ -90,6 +90,16 @@ pip install pandas openpyxl matplotlib colorama tabulate numpy scipy adjustText
 
 ---
 
+### How to Run
+
+* Unzip the Uni-Assignment Folder
+* Download or clone the repository.
+* Open the notebook in VS Code.
+* Ensure the Uni-Assignment folder is open in VS Code.
+* Run the script.
+
+---
+
 ### Author
 
 Evie Marginson
